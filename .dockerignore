@@ -1,0 +1,6 @@
+.elasticbeanstalk
+.ebextensions
+
+npm-debug.log
+dist
+node_modules
