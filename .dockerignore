@@ -3,6 +3,7 @@ coverage
 dist
 npm-debug.log
 
+.ebextensions
 .elasticbeanstalk
 .eslintrc.js
 .prettierrc
