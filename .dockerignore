@@ -1,0 +1,12 @@
+node_modules
+coverage
+dist
+npm-debug.log
+
+.ebextensions
+.elasticbeanstalk
+.eslintrc.js
+.prettierrc
+.env
+README.md
+test
